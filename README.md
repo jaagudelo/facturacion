@@ -1,2 +1,2 @@
 # facturacion
-Nuevo repositorio de pruebas
+Estos cambios fueron originados desde la rama dos.
